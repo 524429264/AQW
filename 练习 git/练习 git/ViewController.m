@@ -53,6 +53,15 @@
     
 }
 
+- (void)test3
+{
+    self.view.backgroundColor = [UIColor orangeColor];
+    
+    
+    
+}
+
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.

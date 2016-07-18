@@ -39,9 +39,14 @@
 {
     
 }
-
+- (void)test2
+{
+    
+}
 - (void)test1
 {
+    
+    
     
 }
 

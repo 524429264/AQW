@@ -46,7 +46,8 @@
 }
 - (void)test1
 {
-    
+    self.view.backgroundColor = [UIColor orangeColor];
+
     
     
 }

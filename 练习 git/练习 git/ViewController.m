@@ -50,7 +50,8 @@
     self.view.backgroundColor = [UIColor orangeColor];
 
     
-    
+    self.view.backgroundColor = [UIColor orangeColor];
+
 }
 
 - (void)test3
